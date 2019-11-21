@@ -44,6 +44,7 @@ group :development, :test do
   
   gem 'omniauth'
   gem 'omniauth-facebook'
+  gem 'dotenv-rails'
   
 end
 
